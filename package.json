@@ -1,0 +1,23 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simpleCalculator.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweetBeard30/simple-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SweetBeard30/simple-calculator/issues"
+  },
+  "homepage": "https://github.com/SweetBeard30/simple-calculator#readme"
+}
